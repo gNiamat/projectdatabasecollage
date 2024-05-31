@@ -1,0 +1,88 @@
+Student 1: Name=niamat		Roll=4688		Cgpa=7.50		
+
+Student 2: Name=sriram		Roll=4644		Cgpa=7.00		
+
+Student 3: Name=mahtab		Roll=4692		Cgpa=7.60		
+
+Student 1: Name=niamat		Roll=99200		Cgpa=6.00		
+
+Student 2: Name=bharat		Roll=99568		Cgpa=7.00		
+
+Student 1: Name=abd		Roll=10551456		Cgpa=0.00		
+
+Student 2: Name=we		Roll=12		Cgpa=9.80		
+
+Student 3: Name=cd		Roll=7801064		Cgpa=0.00		
+
+Student 4: Name="c:\Users\hp\OneDrive\Desktop\C		Roll=7077985		Cgpa=0.00		
+
+Student 5: Name=Language\"		Roll=7803056		Cgpa=0.00		
+
+Student 6: Name=;		Roll=6422476		Cgpa=7004740111251767200000000000000000.00		
+
+Student 7: Name=if		Roll=0		Cgpa=0.00		
+
+Student 8: Name=($?)		Roll=82		Cgpa=0.00		
+
+Student 9: Name={		Roll=6881394		Cgpa=0.00		
+
+Student 10: Name=gcc		Roll=7733912		Cgpa=0.00		
+
+Student 11: Name=mainproject.c		Roll=786434		Cgpa=0.00		
+
+Student 12: Name=o		Roll=234445281		Cgpa=-1.#R		
+
+Student 13: Name=mainproject		Roll=3		Cgpa=0.00		
+
+Student 14: Name=}		Roll=0		Cgpa=0.00		
+
+Student 15: Name=;		Roll=6419788		Cgpa=0.00		
+
+Student 16: Name=if		Roll=1160		Cgpa=0.00		
+
+Student 17: Name=($?)		Roll=6420124		Cgpa=0.00		
+
+Student 18: Name={		Roll=6420472		Cgpa=7004740111251767200000000000000000.00		
+
+Student 19: Name=\mainproject		Roll=7769858		Cgpa=0.00		
+
+Student 20: Name=}		Roll=2007615263		Cgpa=0.00		
+
+Student 21: Name=cd		Roll=1543504221		Cgpa=0.00		
+
+Student 22: Name="c:\Users\hp\OneDrive\Desktop\C		Roll=6420840		Cgpa=0.00		
+
+Student 23: Name=Language\"		Roll=0		Cgpa=0.00		
+
+Student 24: Name=;		Roll=0		Cgpa=6880690472705116700000000000000000.00		
+
+Student 25: Name=if		Roll=7602222		Cgpa=0.00		
+
+Student 26: Name=($?)		Roll=0		Cgpa=0.00		
+
+Student 27: Name={		Roll=6421384		Cgpa=0.00		
+
+Student 28: Name=gcc		Roll=2007578231		Cgpa=0.00		
+
+Student 29: Name=mainproject.c		Roll=4		Cgpa=0.00		
+
+Student 30: Name=o		Roll=0		Cgpa=985865736725934000000000000000000.00		
+
+Student 31: Name=mainproject		Roll=0		Cgpa=0.00		
+
+Student 32: Name=}		Roll=1		Cgpa=0.00		
+
+Student 33: Name=;		Roll=12264776		Cgpa=0.00		
+
+Student 34: Name=if		Roll=4096		Cgpa=0.00		
+
+Student 35: Name=($?)		Roll=1983621291		Cgpa=0.00		
+
+Student 36: Name={		Roll=4200521		Cgpa=0.00		
+
+Student 1: Name=niamatullah		Roll=1		Cgpa=8.00		
+
+Student 2: Name=abdullah		Roll=3		Cgpa=10.00		
+
+Student 3: Name=nawab		Roll=7		Cgpa=6.00		
+
