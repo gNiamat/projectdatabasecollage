@@ -78,11 +78,6 @@ Student 34: Name=if		Roll=4096		Cgpa=0.00
 
 Student 35: Name=($?)		Roll=1983621291		Cgpa=0.00		
 
-Student 36: Name={		Roll=4200521		Cgpa=0.00		
-
-Student 1: Name=niamatullah		Roll=1		Cgpa=8.00		
-
-Student 2: Name=abdullah		Roll=3		Cgpa=10.00		
-
-Student 3: Name=nawab		Roll=7		Cgpa=6.00		
+Student 36: Name=abd		Roll=4200521		Cgpa=0.00		
+	
 
